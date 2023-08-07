@@ -1,5 +1,16 @@
-class Hello {
-  public static void main(String[] args) {
-    System.out.println("hello, world.");
-  }
+class Card{
+    Card(){
+
+    }
+
+    Card(int x, int y){
+
+    }
 }
+
+class Hello {
+    public static void main(String[] args) {
+        String str = "123";
+    }
+}
+
